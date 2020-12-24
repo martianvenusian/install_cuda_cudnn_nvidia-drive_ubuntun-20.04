@@ -308,7 +308,7 @@ Verify cudnn version:
     #include "driver_types.h"
     ```
 
-I think the CREATOR
+I praise the CREATOR
 
 
 References:
